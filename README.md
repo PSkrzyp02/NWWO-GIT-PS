@@ -1,5 +1,5 @@
 # zoo online
-**zoo online** to prosta strona internetowa prezentujaca wyrtualnie zoo.
+**zoo online** to prosta strona internetowa prezentujaca wyrtualnie zoo., dostepna na [GitHub_Pages](https://pskrzyp02.github.io/NWWO-GIT-PS/)
 
 ## Spis tresci
 - [Opis_projektu](#opis-projektu)
